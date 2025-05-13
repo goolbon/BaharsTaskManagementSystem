@@ -1,0 +1,13 @@
+C:\Users\Bahar\source\repos\BaharsTaskManagementSystem\bin\Debug\netcoreapp3.1\BaharsTaskManagementSystem.exe
+C:\Users\Bahar\source\repos\BaharsTaskManagementSystem\bin\Debug\netcoreapp3.1\BaharsTaskManagementSystem.deps.json
+C:\Users\Bahar\source\repos\BaharsTaskManagementSystem\bin\Debug\netcoreapp3.1\BaharsTaskManagementSystem.runtimeconfig.json
+C:\Users\Bahar\source\repos\BaharsTaskManagementSystem\bin\Debug\netcoreapp3.1\BaharsTaskManagementSystem.runtimeconfig.dev.json
+C:\Users\Bahar\source\repos\BaharsTaskManagementSystem\bin\Debug\netcoreapp3.1\BaharsTaskManagementSystem.dll
+C:\Users\Bahar\source\repos\BaharsTaskManagementSystem\bin\Debug\netcoreapp3.1\BaharsTaskManagementSystem.pdb
+C:\Users\Bahar\source\repos\BaharsTaskManagementSystem\obj\Debug\netcoreapp3.1\BaharsTaskManagementSystem.csprojAssemblyReference.cache
+C:\Users\Bahar\source\repos\BaharsTaskManagementSystem\obj\Debug\netcoreapp3.1\BaharsTaskManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\Bahar\source\repos\BaharsTaskManagementSystem\obj\Debug\netcoreapp3.1\BaharsTaskManagementSystem.AssemblyInfoInputs.cache
+C:\Users\Bahar\source\repos\BaharsTaskManagementSystem\obj\Debug\netcoreapp3.1\BaharsTaskManagementSystem.AssemblyInfo.cs
+C:\Users\Bahar\source\repos\BaharsTaskManagementSystem\obj\Debug\netcoreapp3.1\BaharsTaskManagementSystem.dll
+C:\Users\Bahar\source\repos\BaharsTaskManagementSystem\obj\Debug\netcoreapp3.1\BaharsTaskManagementSystem.pdb
+C:\Users\Bahar\source\repos\BaharsTaskManagementSystem\obj\Debug\netcoreapp3.1\BaharsTaskManagementSystem.genruntimeconfig.cache
