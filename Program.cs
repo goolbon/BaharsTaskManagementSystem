@@ -17,16 +17,20 @@ namespace BaharsTaskManagementSystem
 
     class Program
     {
+        // Defining a List of task objects of Task Class
         static List<Task> tasks = new List<Task>();
 
         static void Main(string[] args)
         {
             // Load tasks from JSON at start
             LoadTasks();
+            // This whil(true) was added here to make sure that if user write something wrong handle it!
+            
             while (true)
             {
                 Console.WriteLine("1. Add Task  2. List Tasks  3. Delete Task  4. Exit");
                 string choice = Console.ReadLine();
+                if (choice == "cancel") return;
                 if (choice == "1") { AddTask(); SaveTasks(); }
                 else if (choice == "2") ListTasks();
                 else if (choice == "3") { DeleteTask(); SaveTasks(); }
